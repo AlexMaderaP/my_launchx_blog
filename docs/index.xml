@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Alex Madera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://alexmaderap.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alexmaderap.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje </title>
+      <link>https://alexmaderap.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexmaderap.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey!
+Te voy a contar todo lo que he aprendido desde que inicie mi viaje por LaunchX:
+La primera semana de onboarding fue sobre Python, ya había estudiado antes un poco y por eso no se me dificultó mucho. Durante esta semana también inicie a utilizar Visual Studio, Git y GitHub, no había utilizado estas herramientas antes y me parecen de gran utilidad.
+Después pase a la fase de front-end, donde todas las tecnologías aprendidas fueron nuevas para mí, iniciando con HTML y creando la estructura para una página de una pastelería.</description>
+    </item>
+    
     <item>
       <title>Cultura de un desarrolad@r de software</title>
       <link>https://alexmaderap.github.io/my_launchx_blog/posts/intro/</link>
